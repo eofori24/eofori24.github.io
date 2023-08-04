@@ -1,0 +1,25 @@
+body {
+  background-color: lavender;
+}
+h1,p{
+    text-align: center;
+    
+}
+div{
+    text-align: center;
+    
+}
+
+h2{
+    text-align: left;
+    
+}
+.column div{
+    float:left;
+    padding: 30px;   
+    
+}
+.column{
+    margin-left: 10%;
+    
+}
